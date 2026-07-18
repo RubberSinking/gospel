@@ -1,0 +1,18 @@
+# Lumen Verbi daily publishing playbook
+
+Publish one data file and one original hero image each day. The page renderer is `index.php` and always opens the newest JSON file.
+
+1. Determine the current date in `America/Vancouver`.
+2. Fetch the official Roman Catholic Gospel reading for that date from the USCCB daily readings page. Cross-check the citation with one other Catholic source. Use the complete Gospel passage and do not substitute the first reading or psalm.
+3. Locate the matching passage in St Thomas Aquinas's *Catena Aurea*. Prefer the public-domain Newman translation at CCEL or eCatholic2000. The Catena is an anthology assembled by Aquinas, so attribute each comment to the Father named in the source rather than to Aquinas.
+4. Create `data/YYYY-MM-DD.json`, following the existing schema exactly. Include every verse in the day's Gospel. Use the official USCCB wording if it can be quoted under its stated permissions; otherwise use a public-domain Catholic translation and identify it accurately. Never invent a Scripture translation.
+5. For each verse, select the most illuminating patristic comment that genuinely addresses that verse or its immediate unit. Write:
+   - a brief visible insight of one or two sentences;
+   - a faithful modernized expansion of 70–120 words;
+   - the actual author and source label.
+   Modernize archaic language and explain unstated context, but do not add claims absent from the source. Preserve Catholic doctrine and the Father's line of reasoning. Do not present the modernized text as a verbatim quotation.
+6. Generate a 16:9 hero image using the image-generation tool. Depict the Gospel scene as a sophisticated fusion of Byzantine mosaic, stained glass, gold leaf, and restrained futuristic luminous geometry. No text, lettering, watermark, modern objects, sentimental clip art, or celebrity likeness. Save it as `assets/YYYY-MM-DD/hero.png`.
+7. Validate the JSON with `jq empty`, load the live page with `?date=YYYY-MM-DD`, and confirm every verse, insight, expandable commentary, image, and source link renders.
+8. Commit only `images/gospel/` and push the Web Lab repository. Do not modify older daily entries.
+
+Sources and copyright notes belong in the JSON when appropriate. Scripture and commentary must never be fabricated when a source cannot be fetched. If a source is unavailable, fail clearly rather than publishing guesses.
