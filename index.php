@@ -102,7 +102,7 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
     </nav>
     <?php endif; ?>
   </main>
-  <footer class="site-footer"><span>Lumen Verbi / a living interface for the ancient Church</span><a href="../">← Image lab</a></footer>
+  <footer class="site-footer"><span>Lumen Verbi / a living interface for the ancient Church</span><a href="http://www.jona.ca/2026/07/lumen-verbi-todays-gospel-with-church.html">Blog Post ↗</a></footer>
   <script src="app.js?v=1"></script>
 </body>
 </html>
