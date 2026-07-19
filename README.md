@@ -2,6 +2,8 @@
 
 Lumen Verbi is a daily Catholic Gospel reader that brings Scripture and the voices of the Church Fathers into one contemplative, visual experience.
 
+**Live site:** [jonathanaquino.com/gospel](https://jonathanaquino.com/gospel/)
+
 ![Lumen Verbi showing the Gospel, sacred artwork, and patristic commentary](screenshot.jpg)
 
 Each daily page pairs:
