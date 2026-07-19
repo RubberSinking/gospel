@@ -21,7 +21,7 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=DM+Mono:wght@300;400;500&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
   <div class="grain"></div><div class="cursor-glow" aria-hidden="true"></div>
@@ -84,6 +84,23 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
       <p><?= h($d['closing']) ?></p>
       <a href="<?= h($d['catena_url']) ?>" target="_blank" rel="noopener">Read the source Catena Aurea ↗</a>
     </section>
+
+    <?php if ($older || $newer): ?>
+    <nav class="gospel-nav" aria-label="Browse daily Gospels">
+      <?php if ($older): ?>
+      <a class="gospel-nav-link previous" href="?date=<?= h($older) ?>">
+        <span>Previous reading</span>
+        <strong>← Yesterday’s Gospel</strong>
+      </a>
+      <?php endif; ?>
+      <?php if ($newer): ?>
+      <a class="gospel-nav-link next" href="?date=<?= h($newer) ?>">
+        <span>Next reading</span>
+        <strong>Tomorrow’s Gospel →</strong>
+      </a>
+      <?php endif; ?>
+    </nav>
+    <?php endif; ?>
   </main>
   <footer class="site-footer"><span>Lumen Verbi / a living interface for the ancient Church</span><a href="../">← Image lab</a></footer>
   <script src="app.js?v=1"></script>
