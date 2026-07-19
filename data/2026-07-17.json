@@ -3,6 +3,8 @@
   "date_display": "Friday · July 17, 2026",
   "liturgical_day": "Friday of the Fifteenth Week in Ordinary Time",
   "reference": "Matthew 12:1–8",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.gutenberg.org/ebooks/8347",
   "title": "Mercy is the law’s heart",
   "theme": "The Sabbath was never meant to make compassion illegal.",
   "introduction": "Jesus does more than settle a dispute about handfuls of grain. He reveals how every commandment must be read: in the presence of its divine Lawgiver, and toward the life and healing of the human person.",
@@ -14,7 +16,7 @@
   "verses": [
     {
       "number": "01",
-      "text": "At that time Jesus went through the grainfields on the sabbath. His disciples were hungry and began to pick the heads of grain and eat them.",
+      "text": "At that time Jesus passed through the grainfields on the Sabbath. His disciples were hungry and began to pluck heads of grain and eat them.",
       "author": "St John Chrysostom",
       "author_date": "c. 347–407",
       "insight": "Their hunger is not a loophole. It reveals that law exists to serve life, not to punish need.",
@@ -23,7 +25,7 @@
     },
     {
       "number": "02",
-      "text": "When the Pharisees saw this, they said to him, ‘See, your disciples are doing what is unlawful to do on the sabbath.’",
+      "text": "When the Pharisees saw this, they said to him, ‘Look, your disciples are doing what is unlawful on the Sabbath.’",
       "author": "St Augustine",
       "author_date": "354–430",
       "insight": "The accusation is about Sabbath work, not theft. The law itself allowed the hungry to eat from a neighbour’s field.",
@@ -32,7 +34,7 @@
     },
     {
       "number": "03",
-      "text": "He said to them, ‘Have you not read what David did when he and his companions were hungry,’",
+      "text": "But he said to them, ‘Have you not read what David did when he and those with him were hungry?’",
       "author": "St Jerome",
       "author_date": "c. 347–420",
       "insight": "Jesus answers the accusation from within Scripture: holy tradition already placed human preservation above ritual restriction.",
@@ -41,7 +43,7 @@
     },
     {
       "number": "04",
-      "text": "‘how he went into the house of God and ate the bread of offering, which neither he nor his companions but only the priests could lawfully eat?’",
+      "text": "‘He entered the house of God and ate the bread of offering, which neither he nor those with him were permitted to eat, but only the priests.’",
       "author": "St John Chrysostom",
       "author_date": "c. 347–407",
       "insight": "David’s case is stronger than the disciples’: he ate consecrated bread. If mercy governed there, it governs here all the more.",
@@ -50,7 +52,7 @@
     },
     {
       "number": "05",
-      "text": "‘Or have you not read in the law that on the sabbath the priests serving in the temple violate the sabbath and are innocent?’",
+      "text": "‘Or have you not read in the Law that on the Sabbath the priests in the Temple break the Sabbath and remain blameless?’",
       "author": "St Jerome",
       "author_date": "c. 347–420",
       "insight": "Temple worship required Sabbath labour. God’s commands cannot contradict one another; service explains the apparent exception.",
@@ -59,7 +61,7 @@
     },
     {
       "number": "06",
-      "text": "‘I say to you, something greater than the temple is here.’",
+      "text": "‘But I tell you, something greater than the Temple is here.’",
       "author": "St Augustine",
       "author_date": "354–430",
       "insight": "David supplies the royal image and the priests the priestly one. Both converge in Christ, the true King and Priest.",
@@ -68,7 +70,7 @@
     },
     {
       "number": "07",
-      "text": "‘If you knew what this meant, I desire mercy, not sacrifice, you would not have condemned these innocent men.’",
+      "text": "‘If you understood what this means, “I desire mercy, not sacrifice,” you would never have condemned the innocent.’",
       "author": "St John Chrysostom",
       "author_date": "c. 347–407",
       "insight": "Mercy is not a sentimental exception to worship. It is the knowledge without which worship becomes accusation.",
@@ -77,7 +79,7 @@
     },
     {
       "number": "08",
-      "text": "‘For the Son of Man is Lord of the sabbath.’",
+      "text": "‘For the Son of Man is Lord even of the Sabbath.’",
       "author": "Remigius of Auxerre",
       "author_date": "c. 841–908",
       "insight": "The man standing before them is also God: not a subject correcting the Lawgiver, but the Lawgiver revealing his law.",

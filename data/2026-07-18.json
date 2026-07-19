@@ -3,6 +3,8 @@
   "date_display": "Saturday · July 18, 2026",
   "liturgical_day": "Saturday of the Fifteenth Week in Ordinary Time",
   "reference": "Matthew 12:14–21",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.gutenberg.org/ebooks/8347",
   "title": "Gentleness stronger than violence",
   "theme": "Christ answers plots of destruction with healing, patience, and a justice that restores what is nearly broken.",
   "introduction": "The Pharisees choose conspiracy, but Jesus refuses their manner of power. His withdrawal, hidden healings, and quiet endurance reveal Isaiah’s servant: strong enough to spare his enemies, tender enough to guard the faintest ember, and destined to bring hope to every nation.",
@@ -14,7 +16,7 @@
   "verses": [
     {
       "number": "14",
-      "text": "The Pharisees went out and took counsel against Jesus to put him to death.",
+      "text": "The Pharisees went out and conspired against him, seeking a way to destroy him.",
       "author": "St Hilary of Poitiers",
       "author_date": "c. 310–367",
       "insight": "Jealousy sees only an ordinary man and becomes blind to God’s work. Faced with life-giving power, it plots death.",
@@ -23,7 +25,7 @@
     },
     {
       "number": "15",
-      "text": "When Jesus realized this, he withdrew from that place. Many people followed him, and he cured them all,",
+      "text": "But Jesus knew of it and withdrew from there. Many followed him, and he healed them all.",
       "author": "Remigius of Auxerre",
       "author_date": "c. 841–908",
       "insight": "Jesus withdraws from hatred without withdrawing his mercy. Where conspirators reject him, the crowd follows and receives healing.",
@@ -32,7 +34,7 @@
     },
     {
       "number": "16",
-      "text": "but he warned them not to make him known.",
+      "text": "He warned them not to make him known.",
       "author": "St Hilary of Poitiers",
       "author_date": "c. 310–367",
       "insight": "The healings speak truthfully without self-advertisement. Christ’s command to silence joins unmistakable power to perfect humility.",
@@ -41,7 +43,7 @@
     },
     {
       "number": "17",
-      "text": "This was to fulfill what had been spoken through Isaiah the prophet:",
+      "text": "This fulfilled what was spoken through Isaiah the prophet:",
       "author": "St John Chrysostom",
       "author_date": "c. 347–407",
       "insight": "Isaiah had already revealed not only what the Messiah would do, but the gentle purpose governing how he would do it.",
@@ -50,7 +52,7 @@
     },
     {
       "number": "18",
-      "text": "Behold, my servant whom I have chosen, my beloved in whom I delight; I shall place my Spirit upon him, and he will proclaim justice to the Gentiles.",
+      "text": "Behold my servant, whom I have chosen, my beloved, in whom my soul is well pleased. I will place my Spirit upon him, and he will proclaim judgment to the Gentiles.",
       "author": "Rabanus Maurus",
       "author_date": "c. 780–856",
       "insight": "The chosen servant accomplishes the work no one else can: reconciling humanity to God and extending divine justice beyond Israel.",
@@ -68,7 +70,7 @@
     },
     {
       "number": "20",
-      "text": "A bruised reed he will not break, a smoldering wick he will not quench, until he brings justice to victory.",
+      "text": "He will not break a bruised reed or extinguish a smoking wick, until he sends forth judgment to victory.",
       "author": "St Jerome",
       "author_date": "c. 347–420",
       "insight": "Christ protects damaged lives and weak beginnings of faith. His disciples must never crush the sinner or extinguish a barely living hope.",
@@ -77,7 +79,7 @@
     },
     {
       "number": "21",
-      "text": "And in his name the Gentiles will hope.",
+      "text": "And in his name the Gentiles will place their hope.",
       "author": "St Augustine of Hippo",
       "author_date": "354–430",
       "insight": "The nations’ present hope in the crucified Christ confirms the prophecy: apparent defeat became the worldwide sign of salvation.",
