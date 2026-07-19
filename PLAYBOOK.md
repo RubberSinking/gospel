@@ -14,6 +14,8 @@ Publish one data file and one original hero image each day. The page renderer is
    Modernize archaic language and explain unstated context, but do not add claims absent from the source. Preserve Catholic doctrine and the Father's line of reasoning. Do not present the modernized text as a verbatim quotation.
 7. Generate a 16:9 hero image using the image-generation tool. Depict the Gospel scene as a sophisticated fusion of Byzantine mosaic, stained glass, gold leaf, and restrained futuristic luminous geometry. No text, lettering, watermark, modern objects, sentimental clip art, or celebrity likeness. Save it as `assets/YYYY-MM-DD/hero.png`.
 8. Validate the JSON with `jq empty`, load the live page with `?date=YYYY-MM-DD`, and confirm every verse, insight, expandable commentary, image, edition label, and source link renders.
-9. Commit only `images/gospel/` and push the Web Lab repository. Do not modify older daily entries.
+9. Commit only `images/gospel/` and push the Web Lab repository. Then mirror the Gospel folder to its standalone public repository with:
+   `cd ~/projects/web-lab && git subtree push --prefix=images/gospel public-gospel main`
+   Do not claim success unless both pushes succeed. Do not modify older daily entries.
 
 Sources and copyright notes belong in the JSON when appropriate. Scripture and commentary must never be fabricated when a source cannot be fetched. If a source is unavailable, fail clearly rather than publishing guesses.
