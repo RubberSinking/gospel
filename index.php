@@ -57,9 +57,8 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
       <div class="reading-head"><span>THE HOLY GOSPEL</span><span><?= h($d['reference']) ?></span><span><?= count($d['verses']) ?> VERSES</span></div>
       <?php if (!empty($d['scripture_edition'])): ?>
       <p class="scripture-edition">
-        <?php if (!empty($d['scripture_source_url'])): ?><a href="<?= h($d['scripture_source_url']) ?>" target="_blank" rel="noopener"><?php endif; ?>
-        <?= h($d['scripture_edition']) ?>
-        <?php if (!empty($d['scripture_source_url'])): ?> ↗</a><?php endif; ?>
+        Douay-AI · modernized from the public-domain
+        <?php if (!empty($d['scripture_source_url'])): ?><a href="<?= h($d['scripture_source_url']) ?>" target="_blank" rel="noopener">Douay-Rheims Bible</a><?php else: ?>Douay-Rheims Bible<?php endif; ?>
       </p>
       <?php endif; ?>
       <?php foreach ($d['verses'] as $i => $v): ?>
