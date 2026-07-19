@@ -2,6 +2,8 @@
 
 Lumen Verbi is a daily Catholic Gospel reader that brings Scripture and the voices of the Church Fathers into one contemplative, visual experience.
 
+![Lumen Verbi showing the Gospel, sacred artwork, and patristic commentary](screenshot.jpg)
+
 Each daily page pairs:
 
 - the Gospel appointed for the day in **Douay-AI**, a careful modernization of the public-domain Douay-Rheims Bible;
