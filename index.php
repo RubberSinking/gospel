@@ -21,7 +21,7 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=DM+Mono:wght@300;400;500&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
 </head>
 <body>
   <div class="grain"></div><div class="cursor-glow" aria-hidden="true"></div>
@@ -40,6 +40,7 @@ function h($s) { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
       <div class="hero-shade"></div>
       <div class="hero-copy">
         <div class="kicker"><span>✦</span> <?= h($d['liturgical_day']) ?></div>
+        <div class="mobile-date"><?= h($d['date_display']) ?></div>
         <h1><?= h($d['title']) ?></h1>
         <p><?= h($d['reference']) ?></p>
       </div>
