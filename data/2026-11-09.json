@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-09",
+  "date_display": "Monday · November 9, 2026",
+  "liturgical_day": "Feast of the Dedication of the Lateran Basilica in Rome",
+  "reference": "John 2:13–22",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/110926.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/09.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/50002.htm",
+  "title": "My Father's house",
+  "theme": "Christ clears the temple and points toward his own body, raised from the dead.",
+  "introduction": "The feast of a church's dedication brings us to the Jerusalem temple. Jesus finds a market where his Father's house should be honoured. The Fathers attend to his authority, the danger of treating sacred gifts as merchandise, and the meaning of the sign he promises. The disciples will understand that sign only after his resurrection: the temple he speaks of is his body.",
+  "hero": "assets/2026-11-09/hero.png",
+  "hero_alt": "Jesus directs merchants out of the Jerusalem temple beside an overturned money table, with departing livestock and flying doves, in blue and gold mosaic.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-90.shtml",
+  "closing_title": "The temple he will raise",
+  "closing": "Bede connects the cleansing of the temple with Christ's power to raise his own body. Augustine warns against selling what God gives freely. Chrysostom stays with the disciples as the resurrection makes Jesus' words clear. Their readings invite reverence for the house of prayer and trust in the Lord who has overcome death.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, not of the USCCB or Vatican News Lectionary text. Every verse of John 2:13–22 is included. Patristic insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations. Comments on a multi-verse unit are attached to the verse they illuminate. Alcuin and Theophylact are identified as later commentators in the Catena tradition.",
+  "verses": [
+    {
+      "number": "2:13",
+      "text": "The Passover of the Jews was near, and Jesus went up to Jerusalem.",
+      "author": "Alcuin of York",
+      "author_date": "c. 735–804",
+      "insight": "The Son of God keeps the feasts prescribed by his own law. Alcuin finds an example of attentive obedience in this journey.",
+      "commentary": "Alcuin considers the journey itself before the confrontation in the temple. Jesus goes to Jerusalem for the festival, fulfilling the divine commands whose author he is. Alcuin then turns from the Son to those who serve him: if Christ observed the feasts, his servants should prepare for and celebrate them with holy zeal. The ascent to Jerusalem therefore teaches something before Jesus speaks. His conduct gives weight to the observance of God's commands and asks for a willing, careful response from those who follow him.",
+      "source_label": "Alcuin of York, as collected in the Catena Aurea on John 2:12–13"
+    },
+    {
+      "number": "2:14",
+      "text": "In the temple he found those selling oxen, sheep, and doves, and the money changers seated there.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede places Jesus' visit to the temple under the purpose of prayer. The trade he finds there has displaced the reverence due to God's house.",
+      "commentary": "Bede says that Jesus entered the temple to pray and sees in this an example for those arriving in a new place: their first concern should be to seek God's house in prayer. He explains the animals and money tables through the needs of pilgrims who travelled without their own sacrificial offerings. Yet such arrangements had become an occasion for profit. Bede reads the expulsion as Christ's rejection of worldly business in the house set apart for God, especially business entangled with questionable gain.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on John 2:14–17"
+    },
+    {
+      "number": "2:15",
+      "text": "Having made what was like a scourge of little cords, he drove them all out of the temple, along with the sheep and the oxen. He poured out the money changers' coins and overturned their tables.",
+      "author": "St Augustine of Hippo",
+      "author_date": "354–430",
+      "insight": "Augustine reads the twisted cords as a warning about sins piled upon sins. Correction calls the sinner to change before judgment comes.",
+      "commentary": "Augustine gives the scourge a spiritual meaning. A person who adds one sin to another is like someone twisting strands together into a cord. The resulting suffering is therefore connected with the wrongs that person has accumulated. Augustine asks the hearer to recognise the Lord's warning in such correction and to change the course of life. His explanation moves from the cords in Christ's hand to the habits a sinner forms, urging repentance before those habits end in the binding sentence of the final judgment.",
+      "source_label": "St Augustine of Hippo, as collected in the Catena Aurea on John 2:14–17"
+    },
+    {
+      "number": "2:16",
+      "text": "To those selling doves he said: Take these things away, and do not make my Father's house a house of trade.",
+      "author": "St Augustine of Hippo",
+      "author_date": "354–430",
+      "insight": "The dove recalls the Holy Spirit, whose grace cannot be bought or sold. Augustine warns against seeking private profit from what belongs to Christ.",
+      "commentary": "Augustine applies the sellers in the temple to people within the Church who seek their own advantage rather than the interests of Jesus Christ. He recalls Simon's wish to purchase the power of giving the Holy Spirit so that it could become something to sell. Because the Spirit appeared as a dove, the dove sellers become an image of that corruption. Augustine insists that the gift remains free. The very name grace directs the mind away from a transaction and toward what God gives without a price.",
+      "source_label": "St Augustine of Hippo, as collected in the Catena Aurea on John 2:14–17"
+    },
+    {
+      "number": "2:17",
+      "text": "His disciples remembered that it was written: Zeal for your house has consumed me.",
+      "author": "Alcuin of York",
+      "author_date": "c. 735–804",
+      "insight": "Alcuin describes good zeal as spiritual fervour in defence of truth. Human fear no longer governs the person moved by it.",
+      "commentary": "Alcuin pauses over the word zeal, which can be understood in a good sense. Here it means a fervour of the spirit that stirs the mind to defend the truth. In that movement, human fears are forgotten. His explanation helps us read the disciples' recollection of Scripture: the force of Jesus' action belongs to his devotion to the Father's house. Alcuin's brief definition directs attention to the object of that ardour, the truth being defended, rather than treating intensity alone as the measure of zeal.",
+      "source_label": "Alcuin of York, as collected in the Catena Aurea on John 2:14–17"
+    },
+    {
+      "number": "2:18",
+      "text": "The Jews therefore answered him: What sign do you show us, since you do these things?",
+      "author": "St John Chrysostom",
+      "author_date": "c. 349–407",
+      "insight": "Chrysostom asks why stopping wrongdoing should require a further sign. He reads this particular demand in light of the gains Jesus has interrupted.",
+      "commentary": "Chrysostom sees evidence of virtue in Christ's zeal for God's house and asks why putting an end to evil practices should need another credential. He reads the challengers' demand as an attempt to stop Jesus from proceeding. Their gains have been threatened, and they hope to force him either to produce a miracle or to abandon his action. Chrysostom distinguishes this calculated request from an honest desire to learn. Jesus, who elsewhere gives signs without being asked, knows the intention behind the demand made here.",
+      "source_label": "St John Chrysostom, as collected in the Catena Aurea on John 2:18–22"
+    },
+    {
+      "number": "2:19",
+      "text": "Jesus answered them: Destroy this temple, and in three days I will raise it up.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede joins the two temples in Jesus' answer. The one he cleanses points toward his sinless body, which he will raise by his own power.",
+      "commentary": "Bede reads the answer in relation to the authority the challengers have questioned. The temple of stone signifies Christ's body, in which there is no stain of sin. Jesus has just shown his power by clearing the material temple of its trade and wrongdoing. He now announces a further exercise of that power: though they destroy the temple of his body, he will raise it on the third day. Bede thus connects the present cleansing and the future resurrection through the figure of the temple.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on John 2:18–22"
+    },
+    {
+      "number": "2:20",
+      "text": "The Jews then said: This temple took forty-six years to build, and will you raise it up in three days?",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–c. 1107",
+      "insight": "Theophylact locates the misunderstanding in the temple they imagine. They measure Jesus' promise against the construction of the building before them.",
+      "commentary": "Theophylact explains that the speakers take Jesus to mean the material temple. Their reply follows from that assumption: a building associated with forty-six years of work cannot, they think, be raised in three days. The contrast supplies the force of their scoffing question. Theophylact keeps the reader close to the misunderstanding rather than resolving the number through a separate calculation. They hear a claim about construction, while Jesus has spoken about his body. The Evangelist's next sentence will identify the temple his answer actually concerns.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on John 2:18–22"
+    },
+    {
+      "number": "2:21",
+      "text": "But he was speaking of the temple of his body.",
+      "author": "St Augustine of Hippo",
+      "author_date": "354–430",
+      "insight": "Augustine contrasts a merely material hearing with the meaning the Evangelist supplies. Christ truly took our humanity and raised his body without its being sinful.",
+      "commentary": "Augustine considers the temple in relation to the body Christ received from Adam's human family. He makes an essential distinction: the Lord took that body without taking its sinful condition. After its destruction, he raised it again on the third day. The listeners had understood the saying materially, but Jesus was speaking spiritually about his own body. Augustine points to the Evangelist's explanation as the guide to reading the saying. The promised rebuilding concerns the incarnate Lord, whose body is the temple being named.",
+      "source_label": "St Augustine of Hippo, as collected in the Catena Aurea on John 2:18–22"
+    },
+    {
+      "number": "2:22",
+      "text": "When he had risen again from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word Jesus had spoken.",
+      "author": "St John Chrysostom",
+      "author_date": "c. 349–407",
+      "insight": "The resurrection brings Jesus' earlier words back to the disciples. Chrysostom sees them approaching both the mystery of his risen body and the God who dwells in it.",
+      "commentary": "Chrysostom names two matters that had been far beyond the disciples' understanding. One was the resurrection of the Lord's body; the other, greater mystery was that God dwelt in that body. Jesus' promise to raise the temple himself pointed toward both. After he rose, the disciples remembered the saying and believed the Scripture together with his word. Chrysostom reads their remembering through that change in understanding: the event made clear what the earlier promise had placed before them, though they could not yet grasp it.",
+      "source_label": "St John Chrysostom, as collected in the Catena Aurea on John 2:18–22"
+    }
+  ],
+  "source_verification": {
+    "target_date": "2026-11-09",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-09",
+      "liturgical_title": "Feast of the Dedication of the Lateran Basilica in Rome",
+      "gospel_citation": "John 2:13-22",
+      "item_url": "https://bible.usccb.org/bible/readings/110926.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_publication_date": "Mon, 09 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "visible_date": "09/11/2026",
+      "date": "2026-11-09",
+      "liturgical_title": "Feast of the Dedication of the Lateran Basilica in Rome",
+      "gospel_citation": "John 2:13-22",
+      "source_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/09.html"
+    },
+    "gate": "PASS: exact dates and citations agree"
+  }
+}
