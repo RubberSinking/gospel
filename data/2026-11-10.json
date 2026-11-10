@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-10",
+  "date_display": "Tuesday · November 10, 2026",
+  "liturgical_day": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+  "reference": "Luke 17:7–10",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/111026.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/10.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49017.htm",
+  "title": "We have done our duty",
+  "theme": "Faithful service leaves no room for pride; even our strength to serve comes from grace.",
+  "introduction": "Jesus asks his disciples to picture a servant coming home from the fields, with supper still to prepare. The Catena reads this demanding scene as a warning against pride in good works. Bede turns our attention inward, to the examination of conscience that follows public service. Cyril recalls that God rewards his servants with a generosity far greater than their labour.",
+  "hero": "assets/2026-11-10/hero.png",
+  "hero_alt": "A servant sets supper before his seated master, with a ploughed field and cattle beyond the doorway, in blue and gold mosaic.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-78.shtml",
+  "closing_title": "Service without boasting",
+  "closing": "Theophylact warns that even faithful obedience can become an occasion for pride. Bede asks the servant to gather a distracted mind and acknowledge the need for grace. Cyril keeps divine generosity in view: God promises a reward that far exceeds our work. We can serve wholeheartedly without treating obedience as a claim against him.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, not of the USCCB or Vatican News Lectionary text. Every verse of Luke 17:7–10 is included; the Douay-Rheims places \"I think not\" at the beginning of verse 10. Patristic insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations. Comments on the whole unit are attached to the verse they illuminate. Theophylact is a later commentator in the Catena tradition.",
+  "verses": [
+    {
+      "number": "17:7",
+      "text": "But which of you, having a servant ploughing or tending cattle, will say to him when he comes in from the field: Go at once and sit down to eat?",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–c. 1107",
+      "insight": "Theophylact sees a danger in the very good that faith produces: the obedient disciple may begin to boast. Jesus gives this example to guard against that pride.",
+      "commentary": "Theophylact connects this parable with the faith Jesus has just discussed. Faith leads a person to keep God's commandments and can be accompanied by wonderful works. Yet those very gifts can become an occasion for pride. Someone who has grown in virtue may begin to take credit for it and boast. Jesus therefore gives his apostles the example of the servant returning from the field. Theophylact reads the scene as a warning addressed to people doing good: their virtues must not become grounds for self-exaltation.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 17:7–10"
+    },
+    {
+      "number": "17:8",
+      "text": "Will he not instead say to him: Prepare my supper, gird yourself, and serve me while I eat and drink; afterwards you may eat and drink?",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede reads the preparation of supper as humble self-examination after preaching. To serve God is to acknowledge that we have no strength without his grace.",
+      "commentary": "Bede turns from the outward work of preaching to the teacher's inward examination of conscience. After speaking publicly, the servant must humble himself and consider his own conduct; this is the supper the Lord desires. Girding oneself means gathering a mind distracted by shifting thoughts, just as someone gathers loose clothing to avoid stumbling while walking. Such thoughts can obstruct good works. Bede then explains service to God through dependence on grace: the servant recognises that, without God's help, he has no strength of his own.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 17:7–10"
+    },
+    {
+      "number": "17:9",
+      "text": "Does he thank that servant for doing the things he commanded him?",
+      "author": "St Cyril of Alexandria",
+      "author_date": "c. 376–444",
+      "insight": "Cyril distinguishes the duty we owe God from the reward he freely promises. God's generosity far exceeds the labour of his servants.",
+      "commentary": "Cyril sees the question about thanks as a remedy for pride. A servant who fulfils a command has paid what was owed; obedience gives no reason to boast. He recalls Paul's insistence that preaching the Gospel is a necessity laid upon him, not a ground for glorying in himself. Yet Cyril does not end with the language of obligation. God, in mercy and goodness, promises a reward to those who work. The greatness of his loving-kindness goes far beyond the labour his servants have performed.",
+      "source_label": "St Cyril of Alexandria, as collected in the Catena Aurea on Luke 17:7–10"
+    },
+    {
+      "number": "17:10",
+      "text": "I think not. So you also, when you have done all these things commanded you, say: We are unprofitable servants; we have done what we ought to do.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "God does not need our good works, and our sufferings cannot be compared with the glory to come. Bede finds mature faith in the servant who still acknowledges his imperfection.",
+      "commentary": "Bede explains why the disciples call themselves servants: they have been bought at a price. He then gives two ways to understand their confession that they are unprofitable. The Lord has no need of the good things they bring him; and the sufferings of this life cannot be compared with the glory to be revealed in them. Neither explanation leaves room for boasting. Bede concludes that faith reaches its proper fullness when people who have obeyed every command still acknowledge that they themselves remain imperfect.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 17:7–10"
+    }
+  ],
+  "source_verification": {
+    "target_date": "2026-11-10",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-10",
+      "liturgical_title": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+      "citation": "Luke 17:7-10",
+      "url": "https://bible.usccb.org/bible/readings/111026.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "publication_date": "Tue, 10 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-10",
+      "visible_date": "10/11/2026",
+      "liturgical_title": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+      "citation": "Luke 17:7-10",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/10.html"
+    },
+    "gate": "passed"
+  }
+}
