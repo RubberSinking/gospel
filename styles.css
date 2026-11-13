@@ -5,3 +5,5 @@
 @media(max-width:600px){.gospel-nav{margin-bottom:75px;flex-direction:column}.gospel-nav-link{flex-basis:auto;width:100%;min-height:96px}.gospel-nav-link.next{margin-left:0}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.verse{opacity:1;transform:none}.cursor-glow{display:none}}
 .scripture-edition{margin:10px 0 0;text-align:right;font-family:var(--mono);font-size:7.5px;line-height:1.5;letter-spacing:.025em;color:rgba(152,168,184,.55)}.scripture-edition a{color:inherit;text-decoration:none;border-bottom:1px dotted rgba(152,168,184,.35)}.scripture-edition a:hover{color:rgba(242,189,91,.72);border-bottom-color:currentColor}
+/* Reserve room for the reveal label when an insight wraps on a phone. */
+.insight{padding-bottom:52px}
