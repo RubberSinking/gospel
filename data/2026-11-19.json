@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-19",
+  "date_display": "Thursday · November 19, 2026",
+  "liturgical_day": "Thursday of the Thirty-third Week in Ordinary Time",
+  "reference": "Luke 19:41–44",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/111926.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/19.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49019.htm",
+  "title": "He wept over the city",
+  "theme": "The one who warns Jerusalem also weeps for her.",
+  "introduction": "Jesus sees Jerusalem and weeps. In the Catena Aurea, Cyril hears in those tears the compassion of the Saviour who desires everyone to be saved. Eusebius connects the warning with the peace Christ came to bring. Gregory then turns the passage toward the reader: a soul can become so content with passing pleasures that it refuses to see its need for God.",
+  "hero": "assets/2026-11-19/hero.png",
+  "hero_alt": "Jesus weeps as he looks toward Jerusalem across a valley, in deep blue and gold mosaic with a luminous halo and geometric arcs.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-80.shtml",
+  "closing_title": "Recognizing the time of visitation",
+  "closing": "Gregory says that God keeps visiting the soul through teaching, correction, and mercy. His reading gives the warning a personal urgency. The question is whether we will recognize that care while there is still time to respond.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, not of the USCCB or Vatican News Lectionary wording. All four verses of Luke 19:41–44 are included. Official dated sources establish the date, liturgical title, and citation only. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations. Historical references to the siege concern ancient Jerusalem, not collective inherited guilt. Gregory’s application to the soul is an allegorical interpretation, not added Scripture. The passage’s warning is accompanied by Christ’s tears and desire to save.",
+  "verses": [
+    {
+      "number": "19:41",
+      "text": "And when he drew near, seeing the city, he wept over it, saying:",
+      "author": "St Cyril of Alexandria",
+      "author_date": "c. 376–444",
+      "insight": "Cyril sees Christ’s tears as a visible sign of his compassion. The Saviour desires everyone to be saved.",
+      "commentary": "Cyril begins with Christ’s compassion for the people before him. He desires all people to be saved, and his sorrow over Jerusalem belongs to that saving will. The tears make this compassion visible. Without this sign of his humanity, Cyril says, the depth of his sorrow would not have been plain to us. Tears are the outward tokens of grief. The warning that follows should therefore be read with this scene still in view: the one who announces the city’s danger is himself grieving over it.",
+      "source_label": "St Cyril of Alexandria, as collected in the Catena Aurea on Luke 19:41–44"
+    },
+    {
+      "number": "19:42",
+      "text": "If you also had known, even in this your day, the things that bring you peace; but now they are hidden from your eyes.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory says Jerusalem rejoices because she does not see the danger ahead. He applies that blindness to a soul absorbed in passing pleasures.",
+      "commentary": "Gregory understands the unfinished lament to mean that Jerusalem would weep too, if she knew what lay ahead. Her present rejoicing rests on ignorance of the coming calamity. He then applies the words to a soul that has abandoned a good life for evil ways. Such a soul calls present enjoyment its peace and avoids looking toward anything that might disturb its pleasure. The hidden things are unwelcome to its sight. Gregory’s spiritual reading asks why we can be so satisfied with the present that we refuse to consider where our choices lead.",
+      "source_label": "St Gregory the Great, Homily 39 on the Gospels, as collected in the Catena Aurea on Luke 19:41–44"
+    },
+    {
+      "number": "19:43",
+      "text": "For the days will come upon you, and your enemies will cast a trench around you, surround you, and hem you in on every side,",
+      "author": "Eusebius of Caesarea",
+      "author_date": "c. 260–c. 339",
+      "insight": "Eusebius places the warning beside Christ’s mission of peace. He points to the history of the siege as the fulfillment of this prediction.",
+      "commentary": "Eusebius says that Christ came to bring peace to the whole world, announcing it to those who were near and to those who were far away. The announced peace was not received, and so it remained hidden from those who refused it. Eusebius connects this refusal with the siege that Jesus now expressly foretells. He points readers to Josephus for an account of how the events unfolded. In this reading, the threatening picture of encirclement follows a rejected offer of peace, and the later history bears witness to the warning.",
+      "source_label": "Eusebius of Caesarea, as collected in the Catena Aurea on Luke 19:41–44"
+    },
+    {
+      "number": "19:44",
+      "text": "and beat you flat to the ground, and your children within you. They will not leave in you one stone upon another, because you have not known the time of your visitation.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory reads the ruined stones as the collapse of a soul’s accumulated evil thoughts. Yet God keeps visiting that soul with teaching and mercy, calling it to return.",
+      "commentary": "Gregory gives the city’s destruction a spiritual meaning. A corrupt mind adds one evil thought to another as a builder lays stone upon stone; in judgment, that whole structure comes apart. Yet his account also describes God’s repeated care for the soul before that end. God visits through teaching, through chastisement, and through miracles. A person may hear the truth, be moved to sorrow, or feel shame for wrongdoing when met by mercy. To miss the time of visitation is to refuse these opportunities to return while they are still given.",
+      "source_label": "St Gregory the Great, Homily 39 on the Gospels, as collected in the Catena Aurea on Luke 19:41–44"
+    }
+  ],
+  "source_verification": {
+    "target_date": "2026-11-19",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-19",
+      "liturgical_title": "Thursday of the Thirty-third Week in Ordinary Time",
+      "citation": "Luke 19:41-44",
+      "item_url": "https://bible.usccb.org/bible/readings/111926.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Thu, 19 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-19",
+      "visible_date": "19/11/2026",
+      "liturgical_title": "Thursday of the Thirty-third Week in Ordinary Time",
+      "citation": "Luke 19:41-44",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/19.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  }
+}
