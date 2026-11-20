@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-20",
+  "date_display": "Friday · November 20, 2026",
+  "liturgical_day": "Friday of the Thirty-third Week in Ordinary Time",
+  "reference": "Luke 19:45–48",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/112026.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/20.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49019.htm",
+  "title": "A house of prayer",
+  "theme": "Christ clears the temple and stays to teach.",
+  "introduction": "Jesus drives the sellers and buyers out of the temple, then teaches there each day. Ambrose sees worship as a willing gift, free from bargaining. Gregory notices that Christ continues to teach even those who have been ungrateful. The leaders seek his death, while the people listen closely to him.",
+  "hero": "assets/2026-11-20/hero.png",
+  "hero_alt": "Jesus raises his hand in the temple courtyard as merchants withdraw, with listeners nearby, in gold and deep-blue mosaic and stained glass.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-80.shtml",
+  "closing_title": "Let truth teach here",
+  "closing": "Gregory also reads the temple as the soul of a believer. Thoughts that injure a neighbour turn it into a hiding place for thieves. When the soul learns to turn away from evil, he says, truth teaches there each day. The temple's cleansing gives way to listening.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, not of the USCCB or Vatican News Lectionary wording. Every verse of Luke 19:45–48 is included, including the buyers named in the Douay-Rheims text. Official dated sources establish the date, liturgical title, and citation only. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations. Patristic spiritual readings are distinguished from Scripture. References to the leaders concern those named in this Gospel scene, not collective inherited guilt.",
+  "verses": [
+    {
+      "number": "19:45",
+      "text": "And entering the temple, he began to drive out those who sold there and those who bought.",
+      "author": "St Ambrose of Milan",
+      "author_date": "c. 339–397",
+      "insight": "Ambrose says God's temple is a dwelling of holiness. Worship belongs to free and willing obedience, not to a bargain.",
+      "commentary": "Ambrose begins with what God wants his temple to be: a place where holiness dwells. Trading has displaced that purpose, and Jesus drives it out. Ambrose then turns to the way religious service itself is offered. Priestly service must not become something for sale, as though the worship of God could be reduced to an exchange. It belongs to obedience freely and willingly given. His comment asks us to see the clearing of the temple in relation to the worship that should take place there. God's service calls for a willing heart.",
+      "source_label": "St Ambrose of Milan, as collected in the Catena Aurea on Luke 19:45–48"
+    },
+    {
+      "number": "19:46",
+      "text": "He said to them, \"It is written: My house is the house of prayer. But you have made it a den of thieves.\"",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory applies the warning to corrupt religious office and to the believer's own soul. A heart that plans harm against a neighbour becomes a hiding place for thieves.",
+      "commentary": "Gregory hears a warning for those entrusted with religious office. They ought to help bring their neighbours to life through prayer, yet their wrongdoing can injure the very people they should serve. In that way, he says, they make God's house a den of thieves. He then brings the image into the believer's own life. The faithful soul is also a temple. If it produces corrupt thoughts intended to harm a neighbour, it becomes a hiding place for thieves. Gregory's spiritual reading makes the warning a matter of examining our own thoughts and conduct.",
+      "source_label": "St Gregory the Great, Homily 39 on the Gospels, as collected in the Catena Aurea on Luke 19:45–48"
+    },
+    {
+      "number": "19:47",
+      "text": "And he was teaching daily in the temple. The chief priests, the scribes, and the rulers of the people sought to destroy him.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory notices that Jesus continues to teach even the unworthy and ungrateful. After the cleansing, he gives them the grace of his word.",
+      "commentary": "Gregory pauses over the fact that Jesus teaches in the very place he has just cleansed. The expulsion of the corrupt upholds discipline, but it does not end Christ's care for those before him. Our Redeemer does not withhold his preaching even from people who are unworthy or ungrateful. Gregory calls the teaching that follows a pouring out of the gifts of grace. Read beside the leaders' hostility, that daily teaching shows how patiently Christ continues to give his word. Correction has been followed by another opportunity to hear him.",
+      "source_label": "St Gregory the Great, Homily 39 on the Gospels, as collected in the Catena Aurea on Luke 19:45–48"
+    },
+    {
+      "number": "19:48",
+      "text": "And they could not find what to do to him, for all the people were very attentive to hear him.",
+      "author": "St Cyril of Alexandria",
+      "author_date": "c. 376–444",
+      "insight": "Cyril contrasts the people's attention with the leaders' refusal to believe. The people hold Christ in higher esteem and keep listening to him.",
+      "commentary": "Cyril points to the different ways Christ is received. The people hold him in much higher esteem than the scribes, Pharisees, and leaders who oppose him. Those leaders have not accepted faith in Christ themselves, and they rebuke others as well. The people's close attention therefore matters to the account: opposition among the leaders has not kept the crowd from hearing Jesus. Cyril connects that contrast with the Gospel's statement that the leaders could not find what to do to him. While they seek a way to act against him, the people remain attentive to his teaching.",
+      "source_label": "St Cyril of Alexandria, as collected in the Catena Aurea on Luke 19:45–48"
+    }
+  ],
+  "source_verification": {
+    "target_date": "2026-11-20",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-20",
+      "liturgical_title": "Friday of the Thirty-third Week in Ordinary Time",
+      "citation": "Luke 19:45-48",
+      "item_url": "https://bible.usccb.org/bible/readings/112026.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Fri, 20 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-20",
+      "visible_date": "20/11/2026",
+      "liturgical_title": "Friday of the Thirty-third Week in Ordinary Time",
+      "citation": "Luke 19:45-48",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/20.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  }
+}
