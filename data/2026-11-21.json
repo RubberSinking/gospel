@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-21",
+  "date_display": "Saturday · November 21, 2026",
+  "liturgical_day": "Memorial of the Presentation of the Blessed Virgin Mary",
+  "reference": "Luke 20:27–40",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/112126.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/21.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49020.htm",
+  "title": "All live to him",
+  "theme": "Death does not have the last word about those who belong to God.",
+  "introduction": "The Sadducees bring Jesus a story of seven brothers and one widow. They imagine the resurrection as a return to the arrangements of this life. Jesus answers by speaking of a life beyond death, then turns to Moses: the Lord is the God of Abraham, Isaac, and Jacob. The Fathers follow his answer from the marriage question to the living God.",
+  "hero": "assets/2026-11-21/hero.png",
+  "hero_alt": "Jesus teaches a group of questioning men in the temple, beneath golden arches, in blue, purple, and gold mosaic with luminous geometric lines.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-81.shtml",
+  "closing_title": "The God of Abraham",
+  "closing": "Chrysostom pauses over the way God names himself. The Lord of the whole world calls himself the God of Abraham, Isaac, and Jacob. Their names do not narrow his dominion. They tell of his love for his servants. The promise of life rests with this God, who still calls them his own.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible. USCCB and Vatican News were consulted only for their dated liturgical titles and Gospel citations, not for Scripture wording. Every verse of Luke 20:27–40 is included. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations. Comments on the Sadducees and scribes concern the interlocutors in this passage, not collective inherited guilt.",
+  "source_verification": {
+    "target_date": "2026-11-21",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-21",
+      "liturgical_title": "Memorial of the Presentation of the Blessed Virgin Mary",
+      "citation": "Luke 20:27-40",
+      "item_url": "https://bible.usccb.org/bible/readings/112126.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Sat, 21 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-21",
+      "visible_date": "21/11/2026",
+      "liturgical_title": "Memorial of the Presentation of the Blessed Virgin Mary",
+      "citation": "Luke 20:27-40",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/21.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  },
+  "verses": [
+    {
+      "number": "20:27",
+      "text": "And some of the Sadducees, who deny that there is any resurrection, came to him and asked him,",
+      "author": "Origen",
+      "author_date": "c. 185–253",
+      "insight": "Origen says their denial reaches beyond the body: they also believe the soul dies with it. Their question is meant to trap Jesus.",
+      "commentary": "Origen explains what lies behind the question. The Sadducees deny the resurrection of the dead, and he adds that they believe the soul dies with the body. Their account of the woman and her husbands therefore comes from a settled objection to life beyond death. Origen says they watch for a chance to catch the Saviour in his words, approaching while he teaches about the resurrection. His comment helps us hear the question as a challenge to that teaching, rather than as a request for guidance about a difficult marriage.",
+      "source_label": "Origen, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:28",
+      "text": "\"Master, Moses wrote for us: If a man's brother dies, leaving a wife but no children, his brother should take her as his wife and raise up offspring for his brother.",
+      "author": "St Ambrose of Milan",
+      "author_date": "c. 339–397",
+      "insight": "Ambrose notices the pressure placed on the widow by a strictly literal reading of the law. He contrasts that compulsion with the Spirit, who teaches charity.",
+      "commentary": "Ambrose draws attention to the woman in the rule the Sadducees cite. Read only according to its letter, the law requires her to marry so that a brother may provide offspring for his dead brother, even if she is unwilling. Ambrose places that compulsion beside the teaching that the letter kills, while the Spirit teaches charity. His observation concerns how the command is understood. The questioners invoke Moses, but their appeal to a written rule still needs an understanding shaped by the Spirit and by love.",
+      "source_label": "St Ambrose of Milan, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:29",
+      "text": "There were therefore seven brothers. The first took a wife and died without children.",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "Theophylact says the story rests on a mistaken picture of the resurrection. The Sadducees assume the life to come will follow the bodily arrangements of this world.",
+      "commentary": "Theophylact traces the story back to the assumption beneath it. The Sadducees picture the future life as bodily life carried on in the same manner as now. Starting there, they find the resurrection impossible to accept and construct the case of the seven brothers to ridicule it. The first marriage begins that argument. In his reading, the problem is already present before the later husbands appear: the questioners have decided what risen life must be like without first hearing what Christ says about it.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:30",
+      "text": "The next took her as his wife, and he also died childless.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede reads the successive marriages as part of a devised objection. The story is intended to make belief in the resurrection look foolish.",
+      "commentary": "Bede treats the account of the brothers as a story devised for an argument. Its purpose is to discredit those who affirm that the dead will rise. The second brother's marriage and death carry that argument forward: the questioners keep the woman within the same household while multiplying the husbands whose claims they will later set against one another. Bede does not treat the account as evidence against the resurrection. He asks us to notice the purpose for which the questioners have constructed it.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:31",
+      "text": "And the third took her. In the same way, all seven took her, and they left no children and died.",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "Each added brother makes the proposed puzzle harder only if its starting assumption is true. Theophylact says Jesus will reject that assumption about risen life.",
+      "commentary": "Theophylact sees the whole sequence of marriages as dependent on one weak foundation. The questioners assume that the life of the resurrection must include the same bodily relations as the present life. Their story then repeats marriage and death until all seven brothers are involved. However elaborate the case becomes, it has not established that starting assumption. Theophylact says the Lord's reply will overturn the foundation itself. Read in that light, the repeated marriages explain the form of the objection, but they do not show that resurrection is impossible.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:32",
+      "text": "Last of all, the woman also died.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "In a spiritual reading, Bede sees the barren woman's death as an image of the passing world. He connects the seven brothers with lives that bear no good works.",
+      "commentary": "Bede also gives a spiritual reading of the story, distinct from its literal sequence of events. He associates the seven brothers with the unfruitful who pass through the life of this world, whose weeks turn through seven days. One after another they are carried away by death. The woman's death then becomes an image of the passing of the world's evil course itself. In this interpretation, the lack of children points to a lack of good works. Bede turns the questioners' story into a warning about fruitless living.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:33",
+      "text": "In the resurrection, then, whose wife will she be? For all seven had her as their wife.\"",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "The question assumes that marriage must continue in the resurrection. Theophylact says Christ answers by showing that the life to come is different.",
+      "commentary": "For Theophylact, the final question brings the weakness of the whole argument into view. Asking whose wife the woman will be makes sense only if risen life continues the marital relations of earthly life. The Sadducees have treated that assumption as certain and made the resurrection appear absurd by means of it. Theophylact reads Christ's answer as a direct response to this mistake. Jesus will explain the condition of those who rise, and in doing so remove the premise on which the proposed difficulty depends.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:34",
+      "text": "And Jesus said to them, \"The children of this world marry and are given in marriage.",
+      "author": "St Augustine of Hippo",
+      "author_date": "354–430",
+      "insight": "Augustine links marriage, children, and the succession of generations with mortality. Where death no longer takes people away, that succession is no longer needed.",
+      "commentary": "Augustine explains Christ's distinction by following the succession of generations. Marriage provides for children; children take the place of those who have gone before them; that succession belongs to a world where people die. His comment begins with the conditions familiar to us in this life. Once death is removed, the reason for that continuing succession is removed as well. Augustine therefore understands the answer about marriage in relation to Christ's promise of deathless life. The future world cannot simply be measured by the arrangements of the present one.",
+      "source_label": "St Augustine of Hippo, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:35",
+      "text": "But those who are accounted worthy of that world and of the resurrection from the dead will neither be married nor take wives.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede cautions that Jesus is not saying only the righteous will rise. Christ speaks here of the elect to draw his hearers toward the glory of the resurrection.",
+      "commentary": "Bede guards against a mistaken conclusion from the words about being accounted worthy. They do not mean that only the righteous will rise, or that only they will live without marriage. Sinners too will rise and remain without marriage in that new world. Christ chooses here to speak of the elect, Bede says, so that his hearers will seek the glory of the resurrection. The emphasis is an invitation to desire that blessed life. It must not be turned into a denial of the resurrection of others.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:36",
+      "text": "Nor can they die any more, for they are equal to the angels and are the children of God, being the children of the resurrection.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede connects likeness to the angels with freedom from death and corruption. The risen children of God rejoice in his presence without fear of losing that life.",
+      "commentary": "Bede explains the comparison with the angels through the new condition of the risen. The glory of the resurrection makes them new: they have no fear of death, no stain of corruption, and none of the conditions that burden earthly life. As children of God, they rejoice in the continual sight of his presence. His reading keeps the promise of life before us. Being equal to the angels describes this freedom from death and corruption, together with the joy of dwelling before God.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:37",
+      "text": "Now Moses also showed that the dead rise again, at the bush, when he called the Lord the God of Abraham, the God of Isaac, and the God of Jacob.",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "Theophylact hears the force of God's present-tense naming of himself. He remains the God of the patriarchs, who live with him in the hope of resurrection.",
+      "commentary": "Theophylact follows Christ's appeal to Moses at the bush. If Abraham, Isaac, and Jacob had passed into nothingness, with no life before God and no hope of resurrection, God would not speak of himself as their God in the present. Theophylact contrasts saying that one is someone's master with saying that one was. The Lord's naming of himself declares an enduring relation with the patriarchs. Though they have departed from this life, they live with him in the hope of the resurrection.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:38",
+      "text": "For he is not the God of the dead, but of the living, for all live to him.\"",
+      "author": "St John Chrysostom",
+      "author_date": "c. 347–407",
+      "insight": "Chrysostom sees affection in God's calling himself the God of particular people. Naming Abraham, Isaac, and Jacob does not limit his lordship over the world.",
+      "commentary": "Chrysostom pauses over the personal names in Christ's argument. The saints call the Lord of all their own God out of love, without denying his dominion over others. God likewise calls himself the God of Abraham, Isaac, and Jacob. Chrysostom says this does not narrow his rule: the virtue of his servants declares his power. He notices a reversal of ordinary speech. People name a servant by the master to whom he belongs; here God himself accepts a name that joins him to his servants.",
+      "source_label": "St John Chrysostom, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:39",
+      "text": "And some of the scribes answered, \"Master, you have spoken well.\"",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "Theophylact notes that the scribes oppose the Sadducees on this question. Their approval comes after Jesus has silenced that objection.",
+      "commentary": "Theophylact explains why some scribes now speak approvingly. They are opposed to the Sadducees, whose challenge Jesus has answered, and so they commend his reply. This places their praise within the dispute that has just taken place. Jesus has shown that the proposed marriage difficulty does not disprove the resurrection, and he has appealed to Moses in support of life before God. Theophylact's brief observation helps distinguish the groups in the scene: the Sadducees pose the objection, while these scribes welcome the answer given to it.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 20:27–40"
+    },
+    {
+      "number": "20:40",
+      "text": "And after that they dared not ask him any more questions.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede warns that silence after defeat in argument is not the same as a changed heart. Envy may be checked for a time and still return to hostility.",
+      "commentary": "Bede reads the end of the questioning in the light of the hostility that follows in the Gospel. Having been defeated in argument, Christ's opponents ask no more questions; later they seize him and hand him over to Roman authority. Bede draws a warning from that sequence. Envy can be subdued without being brought to lasting rest. The silence here shows that the challenge has failed, but it does not by itself show that opposition has ended. An unanswered objection and a converted heart are different things.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 20:27–40"
+    }
+  ]
+}
