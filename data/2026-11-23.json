@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-23",
+  "date_display": "Monday · November 23, 2026",
+  "liturgical_day": "Monday of the Thirty-fourth Week in Ordinary Time",
+  "reference": "Luke 21:1–4",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/112326.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/23.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49021.htm",
+  "title": "Two small coins",
+  "theme": "God sees what a gift costs the one who gives it.",
+  "introduction": "Jesus watches the offerings at the temple treasury. Among the rich he sees a poor widow put in two small coins. He calls her gift greater than theirs. The Fathers follow his judgment: the amount in the treasury does not tell the whole story of the giver.",
+  "hero": "assets/2026-11-23/hero.png",
+  "hero_alt": "A poor widow places two small coins into the temple treasury as Jesus watches, in a Byzantine mosaic of deep blue, stained glass, and gold with fine luminous geometry.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-82.shtml",
+  "closing_title": "What the coins cannot measure",
+  "closing": "Bede asks us to consider what remains with the giver. The rich have given from abundance; the widow has given all she had to live on. God sees the heart and knows the means from which each gift is drawn. Her two coins are small enough to overlook. Jesus makes sure his hearers see them.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, preserving every verse of Luke 21:1–4. USCCB and Vatican News were used only for date-specific liturgical titles and Gospel citations, not Scripture wording. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations.",
+  "source_verification": {
+    "target_date": "2026-11-23",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-23",
+      "liturgical_title": "Monday of the Thirty-fourth Week in Ordinary Time",
+      "citation": "Luke 21:1-4",
+      "item_url": "https://bible.usccb.org/bible/readings/112326.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Mon, 23 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-23",
+      "visible_date": "23/11/2026",
+      "liturgical_title": "Monday of the Thirty-fourth Week in Ordinary Time",
+      "citation": "Luke 21:1-4",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/23.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  },
+  "verses": [
+    {
+      "number": "21:1",
+      "text": "And looking on, he saw the rich men putting their gifts into the treasury.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede says Jesus notices those who bring gifts to his house. Their offerings are open to his judgment, as surely as the trading he rebukes there.",
+      "commentary": "Bede describes the treasury as a chest near the altar, with an opening above for money given to the temple. He then turns from the place where the gifts are kept to the Lord who observes them. Jesus has opposed those who trade in his house; he also takes notice of those who bring offerings. Bede says he praises what deserves praise and condemns what is bad. Bringing a gift into the temple does not place the giver beyond his judgment.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 21:1–4"
+    },
+    {
+      "number": "21:2",
+      "text": "And he also saw a certain poor widow putting in two small brass coins.",
+      "author": "St Cyril of Alexandria",
+      "author_date": "c. 376–444",
+      "insight": "Cyril considers how those coins came into her hands: through work or the help of others. Her poverty does not keep her from making an offering to God.",
+      "commentary": "Cyril pauses over the widow's means of living. He describes her two coins as money earned through the sweat of her work, or received day by day through begging. He gives these as possible ways she obtained what she needed; the verse itself does not tell us which. In either case, she offers to God what sustains her. Cyril calls her poverty fruitful because it has produced this gift. He says she surpasses the others and receives her reward by God's just judgment.",
+      "source_label": "St Cyril of Alexandria, as collected in the Catena Aurea on Luke 21:1–4"
+    },
+    {
+      "number": "21:3",
+      "text": "And he said, \"Truly I say to you, this poor widow has put in more than all of them.",
+      "author": "St Bede the Venerable",
+      "author_date": "c. 673–735",
+      "insight": "Bede says God looks at the heart rather than the size of the gift. He weighs the offering against the means of the person who gives it.",
+      "commentary": "Bede explains why Jesus can call these two coins the greater gift. An offering made with an honest heart is pleasing to God. The outward amount is therefore not the measure by which he judges it. Bede says God considers the heart, and weighs what has been offered in relation to the resources from which it was taken. The widow's small contribution and the larger gifts of the rich cannot be compared simply by counting coins. God knows what each person has given.",
+      "source_label": "St Bede the Venerable, as collected in the Catena Aurea on Luke 21:1–4"
+    },
+    {
+      "number": "21:4",
+      "text": "For all these have put something from their abundance into the offerings of God, but she, out of her need, has put in all she had to live on.\"",
+      "author": "St John Chrysostom",
+      "author_date": "c. 347–407",
+      "insight": "Chrysostom sees abundant love in the widow's small offering. He urges those unable to give as she did at least to give what they have left over.",
+      "commentary": "Chrysostom says God looks beyond the smallness of the offering to the abundance of the giver's love. The widow does not merely select a little from a great store. She empties herself of her possessions, giving all that she has. He sets this act before those who hear the Gospel as the measure of almsgiving. Then he addresses the hearer who cannot give as much as she did: at least give what remains beyond your needs. His appeal begins with her gift and turns toward ours.",
+      "source_label": "St John Chrysostom, as collected in the Catena Aurea on Luke 21:1–4"
+    }
+  ]
+}
