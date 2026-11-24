@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-24",
+  "date_display": "Tuesday · November 24, 2026",
+  "liturgical_day": "Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs",
+  "reference": "Luke 21:5–11",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/112426.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/24.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49021.htm",
+  "title": "When the stones fall",
+  "theme": "Christ warns his disciples so that fear and false promises will not lead them away.",
+  "introduction": "Some admire the temple, its fine stones and its gifts. Jesus tells them that it will be torn down. Their questions turn to signs and timing; his answer begins with a warning against deception. The Fathers attend to both dangers: trusting what can fall, and following those who claim his name.",
+  "hero": "assets/2026-11-24/hero.png",
+  "hero_alt": "Jesus teaches disciples in the intact Jerusalem temple courtyard, with pale stone, golden gifts, and fine fractured gold lines across a midnight-blue mosaic sky.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-82.shtml",
+  "closing_title": "Hear the warning without losing heart",
+  "closing": "Gregory says a blow is less disturbing when it has been foreseen. Christ prepares his disciples for trouble, but he also tells them not to be terrified. Athanasius points to the teaching they have already received as a gift to guard. The warning calls them to hold fast to Christ when impressive buildings, frightening events, and persuasive voices compete for their trust.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, preserving every verse of Luke 21:5–11. USCCB and Vatican News were used only for date-specific liturgical titles and Gospel citations, not Scripture wording. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations.",
+  "source_verification": {
+    "target_date": "2026-11-24",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-24",
+      "liturgical_title": "Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs",
+      "citation": "Luke 21:5-11",
+      "item_url": "https://bible.usccb.org/bible/readings/112426.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Tue, 24 Nov 2026 04:30:00 EST"
+    },
+    "vatican": {
+      "date": "2026-11-24",
+      "visible_date": "24/11/2026",
+      "liturgical_title": "Memorial of Saint Andrew Dung-Lac, Priest, and Companions, Martyrs",
+      "citation": "Luke 21:5-11",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/24.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  },
+  "verses": [
+    {
+      "number": "21:5",
+      "text": "As some were saying that the temple was adorned with beautiful stones and gifts, he said:",
+      "author": "Eusebius of Caesarea",
+      "author_date": "c. 260–339",
+      "insight": "Eusebius acknowledges the temple's beauty. Its magnificent construction does not place it beyond the judgment Christ announces.",
+      "commentary": "Eusebius begins by acknowledging what drew the onlookers' admiration. The temple really was beautiful: historical accounts described its construction, and he says surviving remains still gave some sense of its former appearance. Jesus speaks to people absorbed in that building and announces its complete overthrow. Eusebius connects the coming desolation with the presumption of its worshippers. His explanation moves from the splendour they can see to the judgment they have not anticipated, despite all that splendour.",
+      "source_label": "Eusebius of Caesarea, as collected in the Catena Aurea on Luke 21:5–8"
+    },
+    {
+      "number": "21:6",
+      "text": "\"The days will come when, of these things you see, not one stone will be left upon another that will not be thrown down.\"",
+      "author": "St Ambrose of Milan",
+      "author_date": "c. 339–397",
+      "insight": "Ambrose reminds us that anything built by human hands can perish. He also sees a warning about the temple within each person, which falls when faith fails.",
+      "commentary": "Ambrose first takes the prophecy as a statement about the temple built by human hands. Such buildings are subject to age, violence, and fire; their beauty cannot make them indestructible. He then turns to the temple within each person. That temple falls when faith is lacking. He is especially concerned with someone who falsely uses the name of Christ as a shelter for wrongdoing. The outward building leads him to consider the inward ruin that can occur beneath a religious appearance.",
+      "source_label": "St Ambrose of Milan, as collected in the Catena Aurea on Luke 21:5–8"
+    },
+    {
+      "number": "21:7",
+      "text": "And they asked him, saying, \"Master, when will these things happen? And what will be the sign when they are about to begin?\"",
+      "author": "St Cyril of Alexandria",
+      "author_date": "c. 376–444",
+      "insight": "Cyril says the disciples understood the warning about the temple as a warning about the end of the world. Their question shows that they had not yet grasped what Jesus meant.",
+      "commentary": "Cyril draws attention to a misunderstanding behind the disciples' question. Jesus has spoken of the temple's destruction, but they suppose he is speaking of the end of the world. They therefore ask when these events will take place and what sign will announce them. Their question follows from the meaning they have given his words. Cyril asks the reader to notice that difference: hearing Christ's prediction did not mean that the disciples had already understood its full force.",
+      "source_label": "St Cyril of Alexandria, as collected in the Catena Aurea on Luke 21:5–8"
+    },
+    {
+      "number": "21:8",
+      "text": "He said, \"Take care that you are not deceived, for many will come in my name, saying, 'I am he,' and, 'The time is near.' Do not follow them.",
+      "author": "St Athanasius of Alexandria",
+      "author_date": "c. 296–373",
+      "insight": "Athanasius says the deceiver borrows a welcome name to draw people away from the truth. Christ tells his disciples to guard the teaching they have received.",
+      "commentary": "Athanasius recalls the gifts God has given: heavenly teaching, adoption, knowledge of the Father and the Word, and the Holy Spirit. The devil seeks to steal the word already sown in us. He conceals his own character and assumes a name people desire to hear, like someone impersonating absent parents to lead their children away. Athanasius applies this disguise to heresy claiming Christ's name and the possession of truth. God's word, with his grace, enables believers to discern the deception.",
+      "source_label": "St Athanasius of Alexandria, as collected in the Catena Aurea on Luke 21:5–8"
+    },
+    {
+      "number": "21:9",
+      "text": "And when you hear of wars and rebellions, do not be terrified. These things must happen first, but the end will not come immediately.\"",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory says Christ foretells troubles so that their arrival will be less disturbing. Wars and civil unrest bring danger from outside a community and from within it.",
+      "commentary": "Gregory explains the warning as a preparation for suffering. Troubles that have been foretold strike with less force than those that take us entirely by surprise. He distinguishes wars, which involve enemies, from civil disturbances, which arise among fellow citizens. Christ prepares his hearers for both kinds of conflict. Gregory also attends to the statement that the end does not follow immediately: many tribulations precede the last one. The warning about coming suffering is therefore joined to a warning against assuming the end has arrived.",
+      "source_label": "St Gregory the Great, as collected in the Catena Aurea on Luke 21:9–11"
+    },
+    {
+      "number": "21:10",
+      "text": "Then he said to them, \"Nation will rise against nation, and kingdom against kingdom.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory reads the conflict between nations as one part of the troubles Christ describes. Some arise from human beings; others come through the earth and the elements.",
+      "commentary": "Gregory places the conflict of nations within the wider sequence of the Lord's warning. People will suffer through other people, but also through heaven, earth, and the elements. Here, in nation rising against nation, he sees the disorder of human affairs. He then turns to the earthquakes mentioned next, distinguishing them from the conflicts people bring upon one another. His explanation follows the passage's movement from human strife to disturbances in the world around us, rather than treating every calamity as the same kind of event.",
+      "source_label": "St Gregory the Great, as collected in the Catena Aurea on Luke 21:9–11"
+    },
+    {
+      "number": "21:11",
+      "text": "There will be great earthquakes in various places, pestilences, famines, and terrors from heaven; and there will be great signs.\"",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory follows the warning through sickness, barren ground, and disturbances in the heavens. He connects these troubles with the misuse of things given to sustain life.",
+      "commentary": "Gregory considers the troubles one by one. Pestilence concerns the changing condition of human bodies; famine reveals the barrenness of the ground. He connects the fearful heavenly signs with disturbances that depart from the usual order of the seasons, since regular events are not signs in this sense. His reflection then turns to human conduct: things received for the support of life have been bent toward sin. In his account, what people have misused becomes an instrument of punishment. He reads the passage as a call to reckon with that misuse.",
+      "source_label": "St Gregory the Great, as collected in the Catena Aurea on Luke 21:9–11"
+    }
+  ]
+}
