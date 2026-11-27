@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-27",
+  "date_display": "Friday · November 27, 2026",
+  "liturgical_day": "Friday of the Thirty-fourth Week in Ordinary Time",
+  "reference": "Luke 21:29–33",
+  "gospel_citation_source_url": "https://bible.usccb.org/bible/readings/112726.cfm",
+  "gospel_citation_crosscheck_url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/27.html",
+  "scripture_edition": "Douay-AI, modernized from the public-domain Douay-Rheims Bible.",
+  "scripture_source_url": "https://www.drbo.org/chapter/49021.htm",
+  "title": "When summer is near",
+  "theme": "The trees announce a coming season; Christ's words announce a kingdom that will endure.",
+  "introduction": "Jesus turns from upheaval to a familiar sight: trees putting forth fruit. His disciples already know how to recognize the approach of summer. He asks them to recognize the nearness of God's kingdom, too. Gregory finds consolation in this comparison, while Eusebius sees in the returning warmth an image of the resurrection.",
+  "hero": "assets/2026-11-27/hero.png",
+  "hero_alt": "Jesus in blue and gold teaches attentive disciples beside a fruiting fig tree above Jerusalem, in a gold-leaf mosaic with fine cyan arcs.",
+  "catena_url": "https://www.ecatholic2000.com/catena/untitled-82.shtml",
+  "closing_title": "A promise that outlasts the sky",
+  "closing": "Gregory reads the approach of summer as a promise of sorrow giving way to the light of God. Theophylact hears Christ assuring his disciples that upheaval will not destroy the faith. The trees help them recognize what is approaching; Christ's enduring words give them reason to trust him as it comes.",
+  "copyright_notes": "Scripture is an original modernization of the public-domain Douay-Rheims Bible, preserving every verse of Luke 21:29–33, including its wording about fruit in verse 30. USCCB and Vatican News were used only for date-specific liturgical titles and Gospel citations, not Scripture wording. Insights and expansions are original summaries of the public-domain Newman translation of the Catena Aurea, not verbatim quotations.",
+  "source_verification": {
+    "target_date": "2026-11-27",
+    "timezone": "America/Vancouver",
+    "usccb": {
+      "date": "2026-11-27",
+      "liturgical_title": "Friday of the Thirty-fourth Week in Ordinary Time",
+      "citation": "Luke 21:29-33",
+      "item_url": "https://bible.usccb.org/bible/readings/112726.cfm",
+      "feed_url": "https://bible.usccb.org/readings.rss",
+      "item_pub_date": "Fri, 27 Nov 2026 04:30:00 EST",
+      "html_independently_opened": true
+    },
+    "vatican": {
+      "date": "2026-11-27",
+      "visible_date": "27/11/2026",
+      "liturgical_title": "Friday of the Thirty-fourth Week in Ordinary Time",
+      "citation": "Luke 21:29-33",
+      "url": "https://www.vaticannews.va/en/word-of-the-day/2026/11/27.html"
+    },
+    "gate": "PASS: exact dates, titles and Gospel passages agree"
+  },
+  "verses": [
+    {
+      "number": "21:29",
+      "text": "And he spoke to them in a parable: \"Look at the fig tree and all the trees.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory hears consolation in Christ's comparison. The trees teach his disciples to recognize the approach of God's kingdom amid the world's passing troubles.",
+      "commentary": "Gregory places the comparison with the trees within Christ's consolation of the faithful. Jesus has spoken of fearful events, but he now directs his disciples toward the redemption they await. A familiar change in the trees makes the approach of summer recognizable. In the same way, the world's passing points toward the kingdom of God. Gregory uses the comparison to loosen our attachment to a world that cannot last. Its decline need not extinguish the hope of those who seek the heavenly country.",
+      "source_label": "St Gregory the Great, Homily 1 on the Gospels, as collected in the Catena Aurea on Luke 21:28–33"
+    },
+    {
+      "number": "21:30",
+      "text": "When they begin to put forth their fruit, you know that summer is near.",
+      "author": "Eusebius of Caesarea",
+      "author_date": "c. 260–339",
+      "insight": "Eusebius sees the return of warmth and growth as an image of the resurrection. Christ will bring those who sleep in the earth into the life of the new world.",
+      "commentary": "Eusebius develops the seasonal image by describing the change from winter to spring. The sun warms seeds hidden in the soil, and young plants emerge in fresh forms and shades of green. He compares this awakening with the glorious coming of the only-begotten Son of God. Those who have long slept in the dust of the earth will be brought into the light in bodies more excellent than before. Death will be overcome, and Christ will reign as the life of the new world.",
+      "source_label": "Eusebius of Caesarea, as collected in the Catena Aurea on Luke 21:28–33"
+    },
+    {
+      "number": "21:31",
+      "text": "So you also, when you see these things happening, know that the kingdom of God is near.",
+      "author": "St Gregory the Great",
+      "author_date": "c. 540–604",
+      "insight": "Gregory asks why Christ compares the kingdom to summer. There, the clouds of sorrow will clear in the light of the eternal Sun.",
+      "commentary": "Gregory draws out the hope within the comparison. We recognize that summer is approaching when trees put forth their fruit; Christ likewise teaches his disciples to recognize the nearness of God's kingdom through the world's passing. For those awaiting redemption, this ending points toward the good they seek. Gregory explains the choice of summer by turning to its brightness: in the kingdom, the clouds of sorrow disappear, and life becomes clear in the light of the eternal Sun. The comparison gives the faithful reason to raise their minds toward heaven.",
+      "source_label": "St Gregory the Great, Homily 1 on the Gospels, as collected in the Catena Aurea on Luke 21:28–33"
+    },
+    {
+      "number": "21:32",
+      "text": "Amen, I say to you, this generation will not pass away until all things are fulfilled.",
+      "author": "Eusebius of Caesarea",
+      "author_date": "c. 260–339",
+      "insight": "Eusebius understands this generation as the new generation of the Church. The faithful will remain to witness the fulfilment of Christ's words.",
+      "commentary": "Eusebius understands the generation named by Jesus as the new generation of his holy Church. On this reading, the promise concerns the continuing people of faith, rather than only the individuals then listening. This generation will last until the time when it sees the events Christ has foretold and witnesses the fulfilment of his words. Eusebius therefore reads the saying as an assurance about the endurance of the faithful. The Church will still be there to behold what its Saviour has promised.",
+      "source_label": "Eusebius of Caesarea, as collected in the Catena Aurea on Luke 21:28–33"
+    },
+    {
+      "number": "21:33",
+      "text": "Heaven and earth will pass away, but my words will not pass away.\"",
+      "author": "Theophylact of Ohrid",
+      "author_date": "c. 1055–1107",
+      "insight": "Theophylact says the promised upheavals might make disciples fear that Christianity itself will perish. Christ assures them that his Gospel and the Church of the faithful will endure.",
+      "commentary": "Theophylact connects this assurance with the upheavals Jesus has just foretold. Wars, disturbances, and changes in the elements might lead someone to suspect that Christianity itself will also disappear. Christ answers that fear with a promise: even if everything is shaken, his faith will not fail. Theophylact sees in these words the Church being placed above the whole creation. Creation will undergo change, but the Church of the faithful and the words of the Gospel will remain for ever.",
+      "source_label": "Theophylact of Ohrid, as collected in the Catena Aurea on Luke 21:28–33"
+    }
+  ]
+}
